@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firas Kobyaa</h1>
 <h3 align="center">Front-End Developer with a Backend Edge and a Passion for Linux-Powered Innovation</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firas-kobyaa" alt="firas-kobyaa" /></a> </p>
-
 - 🌱 I’m currently learning **React, Node.js**
 
 - 💬 Ask me about **Front-end development**
