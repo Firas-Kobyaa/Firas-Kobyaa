@@ -19,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firas-kobyaa&show_icons=true&locale=en&layout=compact" alt="firas-kobyaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firas-kobyaa&show_icons=true&locale=en" alt="firas-kobyaa" /></p>
